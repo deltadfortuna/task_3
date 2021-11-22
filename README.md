@@ -1,3 +1,3 @@
-Nama : Delta Dewi Fortuna
-NIM : 119140184
+Nama : Delta Dewi Fortuna <br>
+NIM : 119140184 <br>
 Kelas : Pemrograman Web RB
